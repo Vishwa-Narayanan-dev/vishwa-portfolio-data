@@ -1,30 +1,37 @@
 [
   {
     "name": "Operating System Fundamentals",
-    "platform": "NPTEL"
+    "platform": "NPTEL",
+    "icon": "icons/nptel.png"
   },
   {
     "name": "Introduction to Industrial Internet of Things 4.0",
-    "platform": "NPTEL"
+    "platform": "NPTEL",
+    "icon": "icons/nptel.png"
   },
   {
     "name": "Introduction to Internet of Things",
-    "platform": "NPTEL" 
+    "platform": "NPTEL",
+    "icon": "icons/nptel.png"
   },
   {
     "name": "Roadmap for Patent Creation",
-    "platform": "NPTEL"
+    "platform": "NPTEL",
+    "icon": "icons/nptel.png"
   },
   {
     "name": "Introduction to Cybersecurity",
-    "platform": "CISCO Networking Academy"
+    "platform": "CISCO Networking Academy",
+    "icon": "icons/cisco.png"
   },
   {
     "name": "Introduction to Artificial Intelligence",
-    "platform": "Infosys Springboard"
+    "platform": "Infosys Springboard",
+    "icon": "icons/infosys.png"
   },
   {
     "name": "Introduction to Prompt Engineering",
-    "platform": "SIMPLI LEARN"
+    "platform": "SIMPLI LEARN",
+    "icon": "icons/simplilearn.png"
   }
 ]
