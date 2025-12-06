@@ -1,0 +1,17 @@
+[
+  {
+    "title": "IoT Patient Health Monitoring",
+    "category": "IoT",
+    "description": "Monitors patient health using sensors and reports to cloud."
+  },
+  {
+    "title": "Digital Image Watermarking",
+    "category": "Image Processing",
+    "description": "Invisible watermarking for copyright protection."
+  }
+{
+    "title": "Motion Sensor Switch",
+    "category": "Electronics",
+    "description": "Detects a person entry or exit using IR sensors."
+  }
+]
