@@ -1,7 +1,29 @@
 [
-  { "skill": "C Programming" },
-  { "skill": "C++ (DSA)" },
-  { "skill": "Python" },
-  { "skill": "HTML / CSS / JS" },
-  { "skill": "MySQL" }
+  { "skill": "C Programming",
+    "image": "icons/c.png"
+  },
+  { "skill": "DSA",
+    "image": "icons/dsa.png"
+  },
+  { "skill": "Python",
+    "image": "icons/python.png"
+  },
+  { "skill": "HTML",
+    "image": "icons/html.png"
+  },
+  { "skill": "CSS",
+    "image": "icons/css.png"
+  },
+  { "skill": "JS",
+    "image": "icons/js.png"
+  },
+  { "skill": "MySQL",
+    "image": "icons/MySQL.png"
+  },
+   { "skill": "PCB Designer",
+    "image": "icons/pcb-board.png"
+  },
+   { "skill": "PLC Programmer",
+    "image": "icons/plc.png"
+  }
 ]
